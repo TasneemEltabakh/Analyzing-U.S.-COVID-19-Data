@@ -20,14 +20,14 @@ The COVID-19 Data Analysis project focuses on exploring and analyzing U.S. COVID
 
 To run this project, you need to have the following dependencies installed:
 
-- Python (version X.X.X)
+- Python
 - Data analysis libraries (e.g., Pandas, NumPy, Matplotlib)
 - Jupyter Notebook or any Python IDE
 
 ## Installation
 
 1. Clone this repository to your local machine.
-2. Install Python X.X.X from the official website: [Python](https://www.python.org/downloads/).
+2. Install Python from the official website: [Python](https://www.python.org/downloads/).
 3. Install the required dependencies using the following command:
 
 ```bash
